@@ -19,11 +19,9 @@ Setup:
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-### Some other Versions Found 
+### Some other Versions Online: 
 
-[![Covid19](https://img.shields.io/badge/Click-1-orange)](https://covid19-tracker.netlify.app/)
-
-[![Covid19](https://img.shields.io/badge/Click%20-2-lightgrey)](https://covid-19-tracker.netlify.app/)
+[![Covid19](https://img.shields.io/badge/Click-1-orange)](https://covid19-tracker.netlify.app/)    [![Covid19](https://img.shields.io/badge/Click%20-2-lightgrey)](https://covid-19-tracker.netlify.app/)
 
 
 
